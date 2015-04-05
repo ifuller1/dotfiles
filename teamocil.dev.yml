@@ -1,0 +1,14 @@
+name: YanDev
+windows:
+  - name: Vims
+    root: .
+    panes:
+      - vim /tmp/scratch.md
+  - name: Terms
+    root: .
+    panes:
+      - fish
+      - bash
+      - fish
+      - commands:
+        - git status
