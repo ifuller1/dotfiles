@@ -90,7 +90,7 @@ call MapCR()
 """""
 " Fancy Windows
 """""
-au VimEnter * set winheight=999
+" au VimEnter * set winheight=999
 set winheight=50
 "set winminheight=20
 set winwidth=79

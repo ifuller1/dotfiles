@@ -2,10 +2,14 @@ name: YanDev
 windows:
   - name: Vims
     root: .
+    layout: even-horizontal
     panes:
       - vim /tmp/scratch.md
+      - commands:
+        - pwd
   - name: Terms
     root: .
+    layout: tiled
     panes:
       - fish
       - bash
