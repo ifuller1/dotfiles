@@ -3,3 +3,4 @@ ln -s  $DIR/tmux.conf ~/.tmux.conf
 ln -s  $DIR/tmux.md ~/.tmux.md
 ln -s  $DIR/vimrc ~/.vimrc
 ln -s  $DIR/vim ~/.vim
+ln -s  $DIR/teamocil ~/.teamocil
