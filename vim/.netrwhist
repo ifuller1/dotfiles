@@ -1,5 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/ifuller1'
-let g:netrw_dirhist_2='/Users/ifuller1/freelance/TrailSuite/trail-app'
-let g:netrw_dirhist_3='/Users/ifuller1/freelance/TrailSuite'
+let g:netrw_dirhist_cnt =7

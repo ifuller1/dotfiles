@@ -7,7 +7,8 @@ if has("gui_mac") || has("gui_macvim")
   nmap <leader>ff :FufFile **/<CR>
 endif
 
-set nowrap        " don't wrap lines
+set wrap linebreak nolist
+"set nowrap        " don't wrap lines
 set backspace=indent,eol,start " allow backspacing over everything in insert mode
 
 set expandtab

@@ -9,10 +9,9 @@ windows:
         - pwd
   - name: Terms
     root: .
-    layout: tiled
+    layout: main-vertical
     panes:
-      - fish
       - bash
-      - fish
+      - bash
       - commands:
         - git status
