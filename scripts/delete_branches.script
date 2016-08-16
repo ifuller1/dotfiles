@@ -1,0 +1,11 @@
+for branch in `git branch --merged`
+do
+  BRANCH_REGEX="^(develop$|master//*)"
+
+  if [[ $branch =~ $BRANCH_REGEX ]];
+  then
+      echo "BRANCH '$branch' matches BRANCH_REGEX '$BRANCH_REGEX'"
+  else
+      git branch -d $branch
+  fi
+done

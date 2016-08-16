@@ -1,0 +1,22 @@
+windows:
+  - name: "user"
+    root: "/home/mydir/"
+    splits:
+      - target: top
+      - height: 30
+        target: bottom-left
+      - width: 50
+        target: bottom-right
+  - name: "root"
+    focus: true
+    options:
+      synchronize-panes: true
+    root: "/home/mydir/"
+    splits:
+      - cmd: "pwd"
+      - height: 30
+        cmd: "sudo -i"
+        target: bottom-left
+      - width: 50
+        cmd: "sudo -i"
+        target: bottom-right
