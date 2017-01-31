@@ -58,6 +58,7 @@ filetype plugin indent on
 let g:ctrlp_max_depth = 15
 let g:ctrlp_max_files = 100000
 let g:ctrlp_working_path_mode = 'w'
+
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*/log/*,*/vendor/bundle,*/vendor/bower*,*/node_modules,*/coverage/*
 
 set guifont=Monaco:h12
@@ -146,3 +147,18 @@ au BufReadPost *.jsx.erb set syntax=javascript
 
 
 call pathogen#runtime_append_all_bundles()
+
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+
+let g:syntastic_javascript_checkers = ['eslint']
+
+let g:syntastic_javascript_eslint_exe = '$(yarn bin)/eslint'
+
+let g:ctrlp_show_hidden = 1

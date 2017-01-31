@@ -56,7 +56,7 @@ plugins=(git, zsh-autosuggestions)
 
 # export PATH="/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 # export MANPATH="/usr/local/man:$MANPATH"
-export PATH=/Developer-3.2/SDKs/apache-maven-3.3.9/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin/:/usr/local/share/npm/bin:$PATH
+export PATH=/Developer-3.2/SDKs/apache-maven-3.3.9/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin/:/usr/local/share/npm/bin:./node_modules/.bin:$PATH
 
 source $ZSH/oh-my-zsh.sh
 
