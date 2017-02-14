@@ -43,8 +43,7 @@ set noswapfile
 
 " Use pathogen to easily modify the runtime path to include all
 " plugins under the ~/.vim/bundle directory
-call pathogen#helptags()
-call pathogen#runtime_append_all_bundles()
+execute pathogen#infect()
 
 syntax on
 
@@ -145,12 +144,11 @@ au BufNewFile,BufReadPost *.rb setl shiftwidth=2 expandtab tabstop=2 softtabstop
 
 au BufReadPost *.jsx.erb set syntax=javascript
 
-
-call pathogen#runtime_append_all_bundles()
-
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
+
+set laststatus=2
 
 let g:syntastic_always_populate_loc_list = 0
 let g:syntastic_auto_loc_list = 0
@@ -159,6 +157,6 @@ let g:syntastic_check_on_wq = 1
 
 let g:syntastic_javascript_checkers = ['eslint']
 
-let g:syntastic_javascript_eslint_exe = '$(yarn bin)/eslint'
+let g:syntastic_javascript_eslint_exe = "$(yarn bin)/eslint"
 
 let g:ctrlp_show_hidden = 1
