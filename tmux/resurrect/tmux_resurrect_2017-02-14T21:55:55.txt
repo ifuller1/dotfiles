@@ -1,0 +1,12 @@
+pane	dotfiles	0	:bash	1	:*	0	:/home/ifuller1/hackin/dotfiles	0	vim	:vim
+pane	dotfiles	0	:bash	1	:*	1	:/home/ifuller1/hackin/dotfiles/tmux/resurrect	1	bash	:
+pane	infra	0	:vim	1	:*	0	:/home/ifuller1/hackin/infrastructure	1	vim	:vim
+pane	infra	0	:vim	1	:*	1	:/home/ifuller1/hackin/infrastructure	0	bash	:
+pane	infra	0	:vim	1	:*	2	:/home/ifuller1/hackin/infrastructure	0	bash	:
+pane	reporting	0	:vim	1	:*	0	:/home/ifuller1/hackin/reporting-lambdas	1	vim	:vim
+pane	reporting	0	:vim	1	:*	1	:/home/ifuller1/hackin/reporting-lambdas	0	bash	:
+pane	reporting	0	:vim	1	:*	2	:/home/ifuller1/hackin/reporting-lambdas	0	bash	:
+window	dotfiles	0	1	:*	9d91,211x62,0,0{119x62,0,0,8,91x62,120,0,9}
+window	infra	0	1	:*	974f,211x62,0,0{106x62,0,0,3,104x62,107,0[104x41,107,0,4,104x20,107,42,5]}
+window	reporting	0	1	:*	ef8d,211x62,0,0{105x62,0,0,0,105x62,106,0[105x41,106,0,1,105x20,106,42,2]}
+state	reporting	infra

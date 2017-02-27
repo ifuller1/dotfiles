@@ -1,0 +1,22 @@
+pane	0	0	:bash	1	:*	0	:/home/ifuller1	1	bash	:
+pane	auth	0	:vim	1	:*	0	:/home/ifuller1/hackin/authentication-lambdas	1	vim	:vim
+pane	auth	0	:vim	1	:*	1	:/home/ifuller1/hackin/authentication-lambdas	0	bash	:
+pane	auth	0	:vim	1	:*	2	:/home/ifuller1/hackin/authentication-lambdas	0	bash	:
+pane	dotfiles	0	:bash	1	:*	0	:/home/ifuller1/hackin/dotfiles	0	vim	:vim
+pane	dotfiles	0	:bash	1	:*	1	:/home/ifuller1/hackin/dotfiles/tmux/resurrect	1	bash	:
+pane	infra	0	:vim	1	:*	0	:/home/ifuller1/hackin/infrastructure	1	vim	:vim
+pane	infra	0	:vim	1	:*	1	:/home/ifuller1/hackin/infrastructure/terraform	0	bash	:
+pane	infra	0	:vim	1	:*	2	:/home/ifuller1/hackin/infrastructure	0	bash	:
+pane	lab	0	:bash	1	:*	0	:/home/ifuller1/hackin/lab	0	bash	:
+pane	lab	0	:bash	1	:*	1	:/home/ifuller1/hackin/lab	0	bash	:
+pane	lab	0	:bash	1	:*	2	:/home/ifuller1/hackin/lab	1	bash	:
+pane	reporting	0	:vim	1	:*	0	:/home/ifuller1/hackin/reporting-lambdas	0	vim	:vim
+pane	reporting	0	:vim	1	:*	1	:/home/ifuller1/hackin/reporting-lambdas	1	bash	:
+pane	reporting	0	:vim	1	:*	2	:/home/ifuller1/hackin/reporting-lambdas	0	bash	:
+window	0	0	1	:*	bb5d,211x63,0,0,0
+window	auth	0	1	:*	9948,211x63,0,0{106x63,0,0,1,104x63,107,0[104x40,107,0,2,104x22,107,41,3]}
+window	dotfiles	0	1	:*	a608,211x63,0,0{119x63,0,0,4,91x63,120,0,5}
+window	infra	0	1	:*	195f,211x63,0,0{106x63,0,0,6,104x63,107,0[104x40,107,0,7,104x22,107,41,8]}
+window	lab	0	1	:*	fce4,211x63,0,0{105x63,0,0,12,105x63,106,0[105x41,106,0,14,105x21,106,42,15]}
+window	reporting	0	1	:*	888c,211x63,0,0{105x63,0,0,9,105x63,106,0[105x40,106,0,10,105x22,106,41,11]}
+state	lab	
