@@ -1,0 +1,16 @@
+pane	0	0	:~	1	:*	0	:/Users/ianfuller	0	zsh	:
+pane	0	0	:~	1	:*	1	:/Users/ianfuller	0	zsh	:
+pane	0	0	:~	1	:*	2	:/Users/ianfuller	1	zsh	:
+pane	2	0	:..ects/discover	1	:*	0	:/Users/ianfuller/Projects/discover	1	zsh	:
+pane	android	0	:..roid/snapchat	1	:*	0	:/Users/ianfuller/Projects/android/android/snapchat	1	zsh	:
+pane	appengine	0	:..cts/appengine	1	:*	0	:/Users/ianfuller/Projects/appengine	0	java	:/usr/bin/java -Xdock:name=Gradle -Xdock:icon=/Users/ianfuller/Projects/appengine/media/gradle.icns -Dorg.gradle.appname=gradlew -classpath /Users/ianfuller/Projects/appengine/gradle/wrapper/gradle-wrapper.jar org.gradle.wrapper.GradleWrapperMain -I /Users/ianfuller/Projects/appengine/gradle/init.d/snapchat.gradle -PsnapengineBootstrap=true snapchat-webapp:appengineRun -PgaeAppId=devsnapchat -PskipTest -PgaePost=8080
+pane	appengine	0	:..cts/appengine	1	:*	1	:/Users/ianfuller/Projects/appengine	1	zsh	:
+pane	discover	0	:..ects/discover	1	:*	0	:/Users/ianfuller/Projects/discover	1	zsh	:
+pane	discover	0	:..ects/discover	1	:*	1	:/Users/ianfuller/Projects/discover	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	2	:/Users/ianfuller/Projects/discover	0	zsh	:
+window	0	0	1	:*	0100,201x48,0,0{100x48,0,0,1,100x48,101,0[100x24,101,0,2,100x23,101,25,3]}
+window	2	0	1	:*	cb21,201x48,0,0,4
+window	android	0	1	:*	cb22,201x48,0,0,5
+window	appengine	0	1	:*	cdde,298x62,0,0{162x62,0,0,6,135x62,163,0,7}
+window	discover	0	1	:*	df4c,298x62,0,0{151x62,0,0,8,146x62,152,0[146x32,152,0,9,146x29,152,33,10]}
+state	discover	appengine

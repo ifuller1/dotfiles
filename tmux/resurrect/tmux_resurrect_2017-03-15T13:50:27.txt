@@ -1,0 +1,13 @@
+pane	0	0	:~	1	:*	0	:/Users/ianfuller	0	zsh	:
+pane	0	0	:~	1	:*	1	:/Users/ianfuller	0	zsh	:
+pane	0	0	:~	1	:*	2	:/Users/ianfuller	1	zsh	:
+pane	2	0	:..ects/discover	1	:*	0	:/Users/ianfuller/Projects/discover	1	zsh	:
+pane	4	0	:~	1	:*	0	:/Users/ianfuller	1	zsh	:
+pane	discover	0	:..ects/discover	1	:*	0	:/Users/ianfuller/Projects	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	1	:/Users/ianfuller/Projects/discover	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	2	:/Users/ianfuller/Projects/discover	1	zsh	:
+window	0	0	1	:*	d3fa,185x45,0,0{92x45,0,0,0,92x45,93,0[92x22,93,0,1,92x22,93,23,2]}
+window	2	0	1	:*	cf23,201x49,0,0,6
+window	4	0	1	:*	cb25,201x48,0,0,8
+window	discover	0	1	:*	29dc,201x49,0,0{102x49,0,0,3,98x49,103,0[98x26,103,0,4,98x22,103,27,5]}
+state	4	

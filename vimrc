@@ -157,6 +157,6 @@ let g:syntastic_check_on_wq = 1
 
 let g:syntastic_javascript_checkers = ['eslint']
 
-let g:syntastic_javascript_eslint_exe = "$(yarn bin)/eslint"
+let g:syntastic_javascript_eslint_exe = "$(npm bin)/eslint --no-ignore"
 
 let g:ctrlp_show_hidden = 1

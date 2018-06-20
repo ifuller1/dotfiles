@@ -1,0 +1,29 @@
+pane	android	0	:..jects/android	1	:*	0	:/Users/ianfuller/Projects/android	0	zsh	:
+pane	android	0	:..jects/android	1	:*	1	:/Users/ianfuller/Projects/android	1	zsh	:-zsh
+pane	appengine	0	:..cts/appengine	1	:*	0	:/Users/ianfuller/Projects/appengine	0	zsh	:
+pane	appengine	0	:..cts/appengine	1	:*	1	:/Users/ianfuller/Projects/appengine	1	zsh	:
+pane	discover	0	:..ects/discover	1	:*	0	:/Users/ianfuller/Projects/discover	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	1	:/Users/ianfuller/Projects/discover	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	2	:/Users/ianfuller/Projects/discover	1	zsh	:
+pane	discover-electron	0	:..over-electron	1	:*	0	:/Users/ianfuller/Projects/discover-electron	1	zsh	:
+pane	discover-other	0	:..iscover-other	1	:*	0	:/Users/ianfuller/Projects/discover-other	0	zsh	:
+pane	discover-other	0	:..iscover-other	1	:*	1	:/Users/ianfuller/Projects/discover-other	1	zsh	:
+pane	json-schema	0	:..s/json-schema	1	:*	0	:/Users/ianfuller/Projects/json-schema	0	zsh	:
+pane	json-schema	0	:..s/json-schema	1	:*	1	:/Users/ianfuller/Projects/json-schema	1	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	0	:/Users/ianfuller/Projects/react-native-toos	0	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	1	:/Users/ianfuller/Projects/react-native-toos	0	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	2	:/Users/ianfuller/Projects/react-native-toos	1	zsh	:
+pane	showtime	0	:..ects/showtime	1	:*	0	:/Users/ianfuller/Projects/showtime	0	zsh	:
+pane	showtime	0	:..ects/showtime	1	:*	1	:/Users/ianfuller/Projects/showtime	1	zsh	:
+pane	web-common	0	:..ts/web-common	1	:*	0	:/Users/ianfuller/Projects/web-common	0	zsh	:
+pane	web-common	0	:..ts/web-common	1	:*	1	:/Users/ianfuller/Projects/web-common	1	zsh	:
+window	android	0	1	:*	e274,238x52,0,0{119x52,0,0,19,118x52,120,0,20}
+window	appengine	0	1	:*	63d8,238x52,0,0{125x52,0,0,2,112x52,126,0,3}
+window	discover	0	1	:*	744a,238x52,0,0{119x52,0,0,4,118x52,120,0[118x26,120,0,5,118x25,120,27,6]}
+window	discover-electron	0	1	:*	b964,238x52,0,0,7
+window	discover-other	0	1	:*	3601,238x52,0,0{119x52,0,0,8,118x52,120,0,9}
+window	json-schema	0	1	:*	a270,238x52,0,0{119x52,0,0,10,118x52,120,0,11}
+window	react-native	0	1	:*	690a,238x52,0,0{119x52,0,0,12,118x52,120,0[118x26,120,0,13,118x25,120,27,14]}
+window	showtime	0	1	:*	a275,238x52,0,0{119x52,0,0,15,118x52,120,0,16}
+window	web-common	0	1	:*	a277,238x52,0,0{119x52,0,0,17,118x52,120,0,18}
+state	android	

@@ -1,0 +1,20 @@
+pane	android	0	:..roid/snapchat	1	:*	0	:/Users/ianfuller/Projects/android/android/snapchat	1	zsh	:
+pane	appengine	0	:..cts/appengine	1	:*	0	:/Users/ianfuller/Projects/appengine	1	zsh	:
+pane	appengine	0	:..cts/appengine	1	:*	1	:/Users/ianfuller/Projects/appengine	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	0	:/Users/ianfuller/Projects/discover	1	zsh	:
+pane	discover	0	:..ects/discover	1	:*	1	:/Users/ianfuller/Projects/discover	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	2	:/Users/ianfuller/Projects/discover	0	node	:npm     
+pane	discover-other	0	:..iscover-other	1	:*	0	:/Users/ianfuller/Projects/discover-other	0	zsh	:
+pane	discover-other	0	:..iscover-other	1	:*	1	:/Users/ianfuller/Projects/discover-other	1	zsh	:
+pane	discover-web	0	:vim	1	:*	0	:/Users/ianfuller/Projects/discover-web-admin	1	vim	:vim
+pane	discover-web	0	:vim	1	:*	1	:/Users/ianfuller/Projects/discover-web-admin	0	zsh	:
+pane	discover-web	0	:vim	1	:*	2	:/Users/ianfuller/Projects/discover-web-admin	0	zsh	:
+pane	web-common	0	:~/web-common	1	:*	0	:/Users/ianfuller/web-common	0	zsh	:
+pane	web-common	0	:~/web-common	1	:*	1	:/Users/ianfuller/web-common	1	zsh	:
+window	android	0	1	:*	b49e,208x51,0,0,1
+window	appengine	0	1	:*	4ec0,238x52,0,0{132x52,0,0,2,105x52,133,0,3}
+window	discover	0	1	:*	c0d2,238x52,0,0{121x52,0,0,4,116x52,122,0[116x27,122,0,5,116x24,122,28,6]}
+window	discover-other	0	1	:*	3667,208x51,0,0{104x51,0,0,7,103x51,105,0,8}
+window	discover-web	0	1	:*	ba73,208x51,0,0{114x51,0,0,9,93x51,115,0[93x26,115,0,10,93x24,115,27,11]}
+window	web-common	0	1	:*	a272,238x52,0,0{119x52,0,0,12,118x52,120,0,13}
+state	web-common	

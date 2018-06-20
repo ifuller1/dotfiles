@@ -1,0 +1,28 @@
+pane	android	0	:~	1	:*	0	:/Users/ianfuller	1	zsh	:
+pane	appengine	0	:..cts/appengine	1	:*	0	:/Users/ianfuller/Projects/appengine	1	zsh	:
+pane	appengine	0	:..cts/appengine	1	:*	1	:/Users/ianfuller/Projects/appengine	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	0	:/Users/ianfuller/Projects/discover	1	zsh	:
+pane	discover	0	:..ects/discover	1	:*	1	:/Users/ianfuller/Projects/discover	0	zsh	:
+pane	discover	0	:..ects/discover	1	:*	2	:/Users/ianfuller/Projects/discover	0	node	:npm     
+pane	discover-electron	0	:..over-electron	1	:*	0	:/Users/ianfuller/Projects/discover-electron	1	zsh	:
+pane	discover-other	0	:..iscover-other	1	:*	0	:/Users/ianfuller/Projects/discover-other	0	zsh	:
+pane	discover-other	0	:..iscover-other	1	:*	1	:/Users/ianfuller/Projects/discover-other	1	zsh	:
+pane	json-schema	0	:..s/json-schema	1	:*	0	:/Users/ianfuller/Projects/json-schema	0	zsh	:
+pane	json-schema	0	:..s/json-schema	1	:*	1	:/Users/ianfuller/Projects/json-schema	1	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	0	:/Users/ianfuller/Projects/react-native-toos	1	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	1	:/Users/ianfuller/Projects/react-native-toos	0	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	2	:/Users/ianfuller/Projects/react-native-toos	0	zsh	:
+pane	showtime	0	:..ects/showtime	1	:*	0	:/Users/ianfuller/Projects/showtime	1	zsh	:
+pane	showtime	0	:..ects/showtime	1	:*	1	:/Users/ianfuller/Projects/showtime	0	zsh	:
+pane	web-common	0	:..ts/web-common	1	:*	0	:/Users/ianfuller/Projects/web-common	0	zsh	:
+pane	web-common	0	:..ts/web-common	1	:*	1	:/Users/ianfuller/Projects/web-common	1	zsh	:
+window	android	0	1	:*	b95e,238x52,0,0,1
+window	appengine	0	1	:*	63d8,238x52,0,0{125x52,0,0,2,112x52,126,0,3}
+window	discover	0	1	:*	f44e,238x52,0,0{119x52,0,0,5,118x52,120,0[118x26,120,0,6,118x25,120,27,7]}
+window	discover-electron	0	1	:*	b965,238x52,0,0,8
+window	discover-other	0	1	:*	9b55,238x52,0,0{119x52,0,0,9,118x52,120,0,10}
+window	json-schema	0	1	:*	2272,238x52,0,0{119x52,0,0,21,118x52,120,0,22}
+window	react-native	0	1	:*	4910,238x52,0,0{119x52,0,0,18,118x52,120,0[118x26,120,0,19,118x25,120,27,20]}
+window	showtime	0	1	:*	a274,238x52,0,0{119x52,0,0,14,118x52,120,0,15}
+window	web-common	0	1	:*	a276,238x52,0,0{119x52,0,0,16,118x52,120,0,17}
+state	json-schema	discover

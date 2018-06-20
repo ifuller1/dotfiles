@@ -1,0 +1,34 @@
+pane	android	0	:..roid/snapchat	1	:*	0	:/Users/ianfuller/Snapchat/Dev/android/snapchat	0	zsh	:
+pane	android	0	:..roid/snapchat	1	:*	1	:/Users/ianfuller/Snapchat/Dev/android/fbuck	1	zsh	:
+pane	appengine	0	:..Dev/appengine	1	:*	0	:/Users/ianfuller/Snapchat/Dev/appengine	0	zsh	:
+pane	appengine	0	:..Dev/appengine	1	:*	1	:/Users/ianfuller/Snapchat/Dev/appengine	1	zsh	:
+pane	discover	0	:../Dev/discover	1	:*	0	:/Users/ianfuller/Snapchat/Dev/discover	1	zsh	:
+pane	discover	0	:../Dev/discover	1	:*	1	:/Users/ianfuller/Snapchat/Dev/discover	0	node	:npm   
+pane	discover	0	:../Dev/discover	1	:*	2	:/Users/ianfuller/Snapchat/Dev/discover	0	node	:npm     
+pane	discover-electron	0	:..over-electron	1	:*	0	:/Users/ianfuller/Snapchat/Dev/discover-electron	1	zsh	:
+pane	discover-other	0	:..iscover-other	1	:*	0	:/Users/ianfuller/Snapchat/Dev/discover-other	0	zsh	:
+pane	discover-other	0	:..iscover-other	1	:*	1	:/Users/ianfuller/Snapchat/Dev/discover-other	1	zsh	:
+pane	json-schema	0	:..v/json-schema	1	:*	0	:/Users/ianfuller/Snapchat/Dev/json-schema	0	zsh	:
+pane	json-schema	0	:..v/json-schema	1	:*	1	:/Users/ianfuller/Snapchat/Dev/json-schema	1	zsh	:
+pane	pb_schema	0	:~	1	:*	0	:/Users/ianfuller	1	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	0	:/Users/ianfuller/Snapchat/Dev/react-native-toos	0	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	1	:/Users/ianfuller/Snapchat/Dev/react-native-toos	0	zsh	:
+pane	react-native	0	:..t-native-toos	1	:*	2	:/Users/ianfuller/Snapchat/Dev/react-native-toos	1	zsh	:
+pane	reason	0	:../Dev/ReasonML	1	:*	0	:/Users/ianfuller/Snapchat/Dev/ReasonML	0	zsh	:
+pane	reason	0	:../Dev/ReasonML	1	:*	1	:/Users/ianfuller/Snapchat/Dev/ReasonML	1	zsh	:
+pane	showtime	0	:../Dev/showtime	1	:*	0	:/Users/ianfuller/Snapchat/Dev/showtime	0	zsh	:
+pane	showtime	0	:../Dev/showtime	1	:*	1	:/Users/ianfuller/Snapchat/Dev/showtime	1	zsh	:
+pane	web-common	0	:..ev/web-common	1	:*	0	:/Users/ianfuller/Snapchat/Dev/web-common	0	zsh	:
+pane	web-common	0	:..ev/web-common	1	:*	1	:/Users/ianfuller/Snapchat/Dev/web-common	1	zsh	:
+window	android	0	1	:*	365e,208x51,0,0{104x51,0,0,1,103x51,105,0,2}
+window	appengine	0	1	:*	5c24,208x51,0,0{110x51,0,0,3,97x51,111,0,4}
+window	discover	0	1	:*	c4fa,208x51,0,0{104x51,0,0,5,103x51,105,0[103x31,105,0,6,103x19,105,32,7]}
+window	discover-electron	0	1	:*	b4a5,208x51,0,0,8
+window	discover-other	0	1	:*	5b89,208x51,0,0{104x51,0,0,9,103x51,105,0,10}
+window	json-schema	0	1	:*	8a55,208x51,0,0{104x51,0,0,11,103x51,105,0,12}
+window	pb_schema	0	1	:*	5a82,208x51,0,0,13
+window	react-native	0	1	:*	f8ae,208x51,0,0{104x51,0,0,14,103x51,105,0[103x25,105,0,15,103x25,105,26,16]}
+window	reason	0	1	:*	0a57,208x51,0,0{104x51,0,0,22,103x51,105,0,23}
+window	showtime	0	1	:*	8a5b,208x51,0,0{104x51,0,0,17,103x51,105,0,18}
+window	web-common	0	1	:*	ca58,208x51,0,0{104x51,0,0,19,103x51,105,0,20}
+state	reason	
