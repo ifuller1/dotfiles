@@ -1,5 +1,9 @@
 {
-  "Ansi 1 Color" : {
+  "Profiles": [
+    {
+      "Name": "Meslo",
+      "Guid": "ba19744f-6af3-434d-aaa6-0a48e0969958",
+      "Ansi 1 Color" : {
     "Green Component" : 0.1084065511822701,
     "Blue Component" : 0.1414571404457092,
     "Red Component" : 0.8192697763442993
@@ -344,4 +348,6 @@
     "Red Component" : 0.1467953473329544
   },
   "Right Option Key Sends" : 0
+    }
+  ]
 }
