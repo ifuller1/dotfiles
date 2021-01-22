@@ -1,0 +1,42 @@
+pane	13	0	:zsh	1	:*	0	:/Users/ian/Dev/freetrade-firebase-functions	1	zsh	:
+pane	Dev	0	:[tmux]	1	:*	0	:/Users/ian/Dev	1	zsh	:
+pane	brokerage-ops-tool	0	:zsh	1	:*	0	:/Users/ian/Dev/brokerage-ops-tool	0	zsh	:
+pane	brokerage-ops-tool	0	:zsh	1	:*	1	:/Users/ian/Dev/brokerage-ops-tool	1	zsh	:
+pane	cloud-composer	0	:python3.7	1	:*	0	:/Users/ian/Dev/cloud-composer/src	0	zsh	:
+pane	cloud-composer	0	:python3.7	1	:*	1	:/Users/ian/Dev/cloud-composer	1	zsh	:
+pane	firebase-functions	0	:zsh	1	:*	0	:/Users/ian/Dev/freetrade-firebase-functions/functions	0	zsh	:
+pane	firebase-functions	0	:zsh	1	:*	1	:/Users/ian/Dev/freetrade-firebase-functions/functions	1	zsh	:
+pane	freetrade-accounting-functions	0	:zsh	1	:*	0	:/Users/ian/Dev/freetrade-accounting-functions/functions	0	zsh	:
+pane	freetrade-accounting-functions	0	:zsh	1	:*	1	:/Users/ian/Dev/freetrade-accounting-functions	0	zsh	:
+pane	freetrade-accounting-functions	0	:zsh	1	:*	2	:/Users/ian/Dev/freetrade-accounting-functions/mono_functions	1	zsh	:
+pane	freetrade-client-android	0	:zsh	1	:*	0	:/Users/ian/Dev/freetrade-client-android	1	zsh	:
+pane	freetrade-client-api	0	:zsh	1	:*	0	:/Users/ian/Dev/freetrade-client-api/functions	1	zsh	:
+pane	freetrade-client-api	0	:zsh	1	:*	1	:/Users/ian/Dev/freetrade-client-api/functions/deployments/getHoldings	0	zsh	:
+pane	freetrade-firebase-functions	0	:[tmux]	1	:*	0	:/Users/ian/Dev/freetrade-firebase-functions	1	zsh	:
+pane	freetrade-ops	0	:zsh	1	:*	0	:/Users/ian/Dev/freetrade-ops	0	zsh	:
+pane	freetrade-ops	0	:zsh	1	:*	1	:/Users/ian/Dev/freetrade-ops	1	zsh	:
+pane	freetrade-ops-scripts	0	:zsh	1	:*	0	:/Users/ian/Dev/freetrade-ops-scripts	0	zsh	:
+pane	freetrade-ops-scripts	0	:zsh	1	:*	1	:/Users/ian/Dev/freetrade-ops-scripts	1	zsh	:
+pane	hope	0	:[tmux]	1	:*	0	:/Users/ian/Dev/hope	0	zsh	:
+pane	hope	0	:[tmux]	1	:*	1	:/Users/ian/Library/Android/sdk/platform-tools	1	zsh	:
+pane	hope-service	0	:zsh	1	:*	0	:/Users/ian/Dev/hope-service	0	zsh	:
+pane	hope-service	0	:zsh	1	:*	1	:/Users/ian/Dev/hope-service	1	zsh	:
+pane	ios-client	0	:zsh	1	:*	0	:/Users/ian/Dev/freetrade-client-ios	0	zsh	:
+pane	ios-client	0	:zsh	1	:*	1	:/Users/ian/Dev/freetrade-client-ios	1	zsh	:
+pane	k6-performance-tests	0	:[tmux]	1	:*	0	:/Users/ian/Dev/k6-performance-tests	1	zsh	:
+window	13	0	1	:*	dce4,238x52,0,0,25
+window	Dev	0	1	:*	b95e,238x52,0,0,1
+window	brokerage-ops-tool	0	1	:*	35f8,238x52,0,0{119x52,0,0,2,118x52,120,0,3}
+window	cloud-composer	0	1	:*	35fb,238x52,0,0{119x52,0,0,4,118x52,120,0,5}
+window	firebase-functions	0	1	:*	2216,238x52,0,0[238x25,0,0,6,238x26,0,26,7]
+window	freetrade-accounting-functions	0	1	:*	6429,238x52,0,0{119x52,0,0[119x26,0,0,9,119x25,0,27,10],118x52,120,0,11}
+window	freetrade-client-android	0	1	:*	5ce1,238x52,0,0,12
+window	freetrade-client-api	0	1	:*	a273,238x52,0,0{119x52,0,0,13,118x52,120,0,14}
+window	freetrade-firebase-functions	0	1	:*	b55d,238x51,0,0,0
+window	freetrade-ops	0	1	:*	ad8d,238x52,0,0{122x52,0,0,15,115x52,123,0,16}
+window	freetrade-ops-scripts	0	1	:*	a277,238x52,0,0{119x52,0,0,17,118x52,120,0,18}
+window	hope	0	1	:*	e274,238x52,0,0{119x52,0,0,19,118x52,120,0,20}
+window	hope-service	0	1	:*	2272,238x52,0,0{119x52,0,0,21,118x52,120,0,22}
+window	ios-client	0	1	:*	2274,238x52,0,0{119x52,0,0,23,118x52,120,0,24}
+window	k6-performance-tests	0	1	:*	dce5,238x52,0,0,26
+state	k6-performance-tests	

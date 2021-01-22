@@ -1,9 +1,0 @@
-pane	0	0	:~	1	:*	0	:/Users/ianfuller	0	zsh	:
-pane	0	0	:~	1	:*	1	:/Users/ianfuller	0	zsh	:
-pane	0	0	:~	1	:*	2	:/Users/ianfuller	1	zsh	:
-pane	discover	0	:..ects/discover	1	:*	0	:/Users/ianfuller/Projects/discover	0	zsh	:
-pane	discover	0	:..ects/discover	1	:*	1	:/Users/ianfuller/Projects/discover	0	zsh	:
-pane	discover	0	:..ects/discover	1	:*	2	:/Users/ianfuller/Projects/discover	1	zsh	:
-window	0	0	1	:*	d3fa,185x45,0,0{92x45,0,0,0,92x45,93,0[92x22,93,0,1,92x22,93,23,2]}
-window	discover	0	1	:*	96fe,185x45,0,0{92x45,0,0,3,92x45,93,0[92x22,93,0,4,92x22,93,23,5]}
-state	discover	
