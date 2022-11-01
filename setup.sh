@@ -6,3 +6,4 @@ ln -s  $DIR/vimrc ~/.vimrc
 ln -s  $DIR/vim ~/.vim
 ln -s  $DIR/teamocil ~/.teamocil
 ln -s  $DIR/npmrc ~/.npmrc
+echo "For iTerm make sure to set 'load preferences' to this folder."
