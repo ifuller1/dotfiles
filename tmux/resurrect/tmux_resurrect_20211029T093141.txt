@@ -1,0 +1,12 @@
+pane	3	0	:zsh	1	:*	0	:/Users/ianfuller	1	zsh	:
+pane	Tasks	0	:zsh	1	:*	0	:/Users/ianfuller/Dev/Tasks	0	zsh	:
+pane	Tasks	0	:zsh	1	:*	1	:/Users/ianfuller/Dev/Tasks	1	zsh	:
+pane	pavilion	0	:zsh	1	:*	0	:/Users/ianfuller/Dev/pavilion-place	0	zsh	:
+pane	pavilion	0	:zsh	1	:*	1	:/Users/ianfuller/Dev/pavilion-place	1	zsh	:
+pane	scion	0	:[tmux]	1	:*Z	0	:/Users/ianfuller/Dev/scion	1	zsh	:
+pane	scion	0	:[tmux]	1	:*Z	1	:/Users/ianfuller/Dev/scion	0	zsh	:
+window	3	0	1	:*	d043,178x48,0,0,6
+window	Tasks	0	1	:*	5958,178x48,0,0{89x48,0,0,1,88x48,90,0,2}
+window	pavilion	0	1	:*	5aa3,318x78,0,0{159x78,0,0,7,158x78,160,0,8}
+window	scion	0	1	:*Z	5a9d,318x78,0,0{159x78,0,0,3,158x78,160,0,4}
+state	pavilion	
