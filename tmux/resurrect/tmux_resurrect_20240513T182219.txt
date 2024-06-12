@@ -1,0 +1,28 @@
+pane	alta-client-services-13	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/Alta/client-services/admin-panel	1	zsh	:
+pane	alta-client-services-13	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/Alta/client-services/functions/process-terra-activity-events	0	zsh	:
+pane	alta-flutter-16	0	1	:*Z	0	pavilion-macbook	:/Users/ianfuller/Dev/Alta/flutter_client	0	zsh	:
+pane	alta-flutter-16	0	1	:*Z	1	pavilion-macbook	:/Users/ianfuller/Dev/Alta/flutter_client	1	zsh	:
+pane	bits-8	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/bits	1	zsh	:
+pane	home-assitant-11	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/home-assistant-mount	1	zsh	:
+pane	home-assitant-11	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev	0	zsh	:
+pane	home-assitant-11	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/.ssh	0	zsh	:
+pane	investa-client-services-8	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services	0	zsh	:
+pane	investa-client-services-8	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services/functions/shared	0	zsh	:
+pane	investa-client-services-8	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services/functions/ib-update-live-session	1	node	:npm run start-debug   
+pane	investa-ios-10	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/investa/iOS	0	zsh	:
+pane	investa-ios-10	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/investa/iOS	1	zsh	:
+pane	playground-functions-4	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace/prefect-poetry	0	zsh	:
+pane	playground-functions-4	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace	0	zsh	:
+pane	playground-functions-4	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace/functions/fetchDesignMyNightVenues2	1	zsh	:
+pane	playground-pavilion-10	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace	1	zsh	:
+pane	playground-pavilion-10	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace	0	zsh	:
+pane	playground-pavilion-10	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace	0	zsh	:
+window	alta-client-services-13	0	:zsh	1	:*	343c,416x100,0,0{210x100,0,0,1,205x100,211,0,2}	:
+window	alta-flutter-16	0	:zsh	1	:*Z	2d56,416x100,0,0{209x100,0,0,3,206x100,210,0,4}	:
+window	bits-8	0	:zsh	1	:*	6a38,187x49,0,0,19	:
+window	home-assitant-11	0	:zsh	1	:*	5893,187x49,0,0{103x49,0,0,5,83x49,104,0[83x29,104,0,6,83x19,104,30,7]}	:
+window	investa-client-services-8	0	:node	1	:*	468e,187x49,0,0{94x49,0,0,8,92x49,95,0[92x26,95,0,9,92x22,95,27,10]}	:
+window	investa-ios-10	0	:zsh	1	:*	e007,416x100,0,0{208x100,0,0,11,207x100,209,0,12}	:
+window	playground-functions-4	0	:zsh	1	:*	68ba,416x100,0,0{208x100,0,0,13,207x100,209,0[207x57,209,0,14,207x42,209,58,15]}	:
+window	playground-pavilion-10	0	:zsh	1	:*	bd2c,416x100,0,0{210x100,0,0,16,205x100,211,0[205x57,211,0,17,205x42,211,58,18]}	:
+state	bits-8	

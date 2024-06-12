@@ -586,7 +586,7 @@
 			<key>Dynamic Profile Filename</key>
 			<string>/Users/ian/Library/Application Support/iTerm2/DynamicProfiles/iterm2.json</string>
 			<key>Flashing Bell</key>
-			<false/>
+			<true/>
 			<key>Foreground Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -940,7 +940,7 @@
 			<key>Shortcut</key>
 			<string></string>
 			<key>Silence Bell</key>
-			<false/>
+			<true/>
 			<key>Sync Title</key>
 			<false/>
 			<key>Tags</key>
@@ -973,6 +973,8 @@
 	</array>
 	<key>PMPrintingExpandedStateForPrint2</key>
 	<false/>
+	<key>PMPrintingPanelSize</key>
+	<string>{777, 828}</string>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>

@@ -1,0 +1,21 @@
+pane	alta-client-services-13	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/Alta/client-services/admin-panel	1	zsh	:
+pane	alta-client-services-13	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/Alta/client-services/functions/process-terra-activity-events	0	zsh	:
+pane	alta-flutter-16	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/Alta/flutter_client	1	zsh	:
+pane	alta-flutter-16	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/Alta/flutter_client	0	zsh	:
+pane	elysian-9	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/elysian	0	zsh	:
+pane	elysian-9	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/elysian	1	zsh	:
+pane	home-assitant-11	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/home-assistant-mount	1	zsh	:
+pane	home-assitant-11	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev	0	zsh	:
+pane	home-assitant-11	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/.ssh	0	zsh	:
+pane	investa-client-services-8	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services	0	zsh	:
+pane	investa-client-services-8	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services/functions/shared	0	zsh	:
+pane	investa-client-services-8	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services/functions/ib-deposit-funds	1	zsh	:
+pane	investa-ios-10	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/investa/iOS	0	zsh	:
+pane	investa-ios-10	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/investa/iOS	1	zsh	:
+window	alta-client-services-13	0	:zsh	1	:*	d26b,186x49,0,0{95x49,0,0,1,90x49,96,0,2}	:
+window	alta-flutter-16	0	:zsh	1	:*	343e,416x100,0,0{210x100,0,0,3,205x100,211,0,4}	:
+window	elysian-9	0	:zsh	1	:*	4008,416x100,0,0{208x100,0,0,21,207x100,209,0,22}	:
+window	home-assitant-11	0	:zsh	1	:*	8eec,416x100,0,0{218x100,0,0,6,197x100,219,0[197x55,219,0,7,197x44,219,56,8]}	:
+window	investa-client-services-8	0	:zsh	1	:*	f365,186x49,0,0{94x49,0,0,9,91x49,95,0[91x26,95,0,10,91x22,95,27,11]}	:
+window	investa-ios-10	0	:zsh	1	:*	a008,416x100,0,0{208x100,0,0,12,207x100,209,0,13}	:
+state	elysian-9	alta-client-services-13

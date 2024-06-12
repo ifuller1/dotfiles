@@ -1,0 +1,20 @@
+pane	alta-client-services-13	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/Alta/client-services/admin-panel	1	zsh	:
+pane	alta-client-services-13	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/Alta/client-services/functions/process-terra-activity-events	0	zsh	:
+pane	alta-flutter-16	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/Alta/flutter_client	1	zsh	:
+pane	alta-flutter-16	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/Alta/flutter_client	0	zsh	:
+pane	bits-8	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/bits	1	zsh	:
+pane	home-assitant-11	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/home-assistant-mount	1	zsh	:
+pane	home-assitant-11	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev	0	zsh	:
+pane	home-assitant-11	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/.ssh	0	zsh	:
+pane	investa-client-services-8	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services	0	zsh	:
+pane	investa-client-services-8	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services/functions/shared	0	zsh	:
+pane	investa-client-services-8	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services/functions/ib-update-live-session	1	zsh	:
+pane	investa-ios-10	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/investa/iOS	0	zsh	:
+pane	investa-ios-10	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/investa/iOS	1	zsh	:
+window	alta-client-services-13	0	:zsh	1	:*	343c,416x100,0,0{210x100,0,0,1,205x100,211,0,2}	:
+window	alta-flutter-16	0	:zsh	1	:*	343e,416x100,0,0{210x100,0,0,3,205x100,211,0,4}	:
+window	bits-8	0	:zsh	1	:*	8442,416x100,0,0,5	:
+window	home-assitant-11	0	:zsh	1	:*	8eec,416x100,0,0{218x100,0,0,6,197x100,219,0[197x55,219,0,7,197x44,219,56,8]}	:
+window	investa-client-services-8	0	:zsh	1	:*	9daa,416x100,0,0{209x100,0,0,9,206x100,210,0[206x52,210,0,10,206x47,210,53,11]}	:
+window	investa-ios-10	0	:zsh	1	:*	a008,416x100,0,0{208x100,0,0,12,207x100,209,0,13}	:
+state	alta-flutter-16	

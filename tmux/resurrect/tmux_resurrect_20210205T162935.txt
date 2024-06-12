@@ -1,4 +1,0 @@
-pane	scion	0	:zsh	1	:*	0	:/Users/ianfuller/Dev/scion	0	zsh	:
-pane	scion	0	:zsh	1	:*	1	:/Users/ianfuller/Dev/scion	1	zsh	:
-window	scion	0	1	:*	d953,178x48,0,0{89x48,0,0,0,88x48,90,0,1}
-state	scion	

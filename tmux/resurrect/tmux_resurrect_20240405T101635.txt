@@ -1,0 +1,26 @@
+pane	alta-client-services-13	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/Alta/client-services	1	zsh	:
+pane	alta-client-services-13	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/Alta/client-services	0	zsh	:
+pane	alta-flutter-16	0	1	:*Z	0	pavilion-macbook	:/Users/ianfuller/Dev/Alta/flutter_client	0	zsh	:
+pane	alta-flutter-16	0	1	:*Z	1	pavilion-macbook	:/Users/ianfuller/Dev/Alta/flutter_client	1	zsh	:
+pane	home-assitant-11	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/home-assistant-mount	1	zsh	:
+pane	home-assitant-11	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev	0	zsh	:
+pane	home-assitant-11	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/.ssh	0	zsh	:
+pane	investa-client-services-8	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services	1	zsh	:
+pane	investa-client-services-8	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services/functions/shared	0	zsh	:
+pane	investa-client-services-8	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/Dev/investa/client-services/functions/ib-create-xml	0	zsh	:
+pane	investa-ios-10	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/investa/iOS	0	zsh	:
+pane	investa-ios-10	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/investa/iOS	1	zsh	:
+pane	playground-functions-4	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace/prefect-poetry	0	zsh	:
+pane	playground-functions-4	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace	0	zsh	:
+pane	playground-functions-4	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace/functions/fetchDesignMyNightVenues2	1	zsh	:
+pane	playground-pavilion-10	0	1	:*	0	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace	1	zsh	:
+pane	playground-pavilion-10	0	1	:*	1	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace	0	zsh	:
+pane	playground-pavilion-10	0	1	:*	2	pavilion-macbook	:/Users/ianfuller/Dev/playground-pavilionplace	0	zsh	:
+window	alta-client-services-13	0	:zsh	1	:*	d954,418x103,0,0{209x103,0,0,30,208x103,210,0,33}	:
+window	alta-flutter-16	0	:[tmux]	1	:*Z	5958,418x103,0,0{209x103,0,0,36,208x103,210,0,37}	:
+window	home-assitant-11	0	:zsh	1	:*	69eb,418x103,0,0{208x103,0,0,6,209x103,209,0[209x57,209,0,7,209x45,209,58,8]}	:
+window	investa-client-services-8	0	:zsh	1	:*	7284,418x103,0,0{209x103,0,0,11,208x103,210,0[208x54,210,0,12,208x48,210,55,13]}	:
+window	investa-ios-10	0	:zsh	1	:*	1956,418x103,0,0{209x103,0,0,14,208x103,210,0,15}	:
+window	playground-functions-4	0	:zsh	1	:*	ae88,418x103,0,0{209x103,0,0,16,208x103,210,0[208x59,210,0,17,208x43,210,60,18]}	:
+window	playground-pavilion-10	0	:zsh	1	:*	71f5,418x103,0,0{211x103,0,0,20,206x103,212,0[206x59,212,0,21,206x43,212,60,28]}	:
+state	alta-flutter-16	
