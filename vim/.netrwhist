@@ -1,10 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/ifuller1/hackin/dotfiles'
-let g:netrw_dirhist_2='/Users/ianfuller/Projects/json-schema/soju'
-let g:netrw_dirhist_3='/Users/ianfuller/dotfiles/zsh'
-let g:netrw_dirhist_4='/Users/ianfuller/.aws'
-let g:netrw_dirhist_5='/Users/ianfuller/.ssh'
-let g:netrw_dirhist_6='/usr/local/etc/bash_completion.d'
-let g:netrw_dirhist_7='/Users/ian/.oh-my-zsh'
-let g:netrw_dirhist_8='/Users/ian/.ssh'
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/ianfuller/dotfiles'
